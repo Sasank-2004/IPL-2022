@@ -9,3 +9,6 @@
 8.Gujarat Titans
 9.Sunrisers Hyderabad
 10.Rajasthan Royals
+## Newly Added teams
+1.Lucknow Super Gaints
+2.Gujarat Titans
